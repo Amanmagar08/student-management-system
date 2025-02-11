@@ -19,14 +19,11 @@ public class SpringbootFirstAppApplication implements CommandLineRunner {
 
 		@Override
 				public void run(String... args) throws Exception {
-
+// 			Adding sample student records to database for testing
 //			Student student1 = new Student("John", "Doe", "john@gmail.com");
 //			studentRepository.save(student1);
 //
-//			Student student2 = new Student("Sanjay", "Puri", "puri@gmail.com");
+//			Student student2 = new Student("Tony", "Stark", "tony@gmail.com");
 //			studentRepository.save(student2);
-//
-//			Student student3 = new Student("Tony", "Stark", "tony@gmail.com");
-//			studentRepository.save(student3);
 		}
 }
